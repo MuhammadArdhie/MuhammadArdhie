@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Halo semua! 
  
 Perkenalkan nama saya **Muhammad Ardhie Abdul Ghani**.<br>
- 
+Seorang Mahasiswa dari Institut Teknologi Nasional (ITENAS) Bandung <br>
+Program Studi Sistem Informasi
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Ardhie1212">
